@@ -9,3 +9,5 @@ function pegaEmail(email){
 }
 
 // pegando email e cadastradndo na plataforma
+
+// arrumando uma brach aleatoria
