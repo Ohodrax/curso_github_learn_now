@@ -3,3 +3,9 @@ function signUp(email){
 }
 
 // pegando email e cadastradndo na plataforma
+
+function pegaEmail(email){
+    return "email" + email;
+}
+
+// pegando email e cadastradndo na plataforma
